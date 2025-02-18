@@ -58,9 +58,10 @@ a {
     text-decoration: none;
 }
 
-a:hover {
+a:hover, a:focus {
     color:#F4D04E;
 }
+
 .avatarContainer {
     display: flex;
     justify-content: flex-start;
