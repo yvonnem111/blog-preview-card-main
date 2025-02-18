@@ -50,5 +50,5 @@ Using FlexBox on a body tag needs a height to vertical align a child element.
 ## Author
 
 - Website - [Yvonne Joseph](https://www.yvonnejoseph.com)
-- Frontend Mentor - [@yvonnem111](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yvonnem111](https://www.frontendmentor.io/profile/yvonnem111)
 
